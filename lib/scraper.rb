@@ -23,6 +23,8 @@ class Scraper
   binding.pry
   end
 
+  scraper.new.get_page
+
   def get_courses
   end
 
