@@ -28,4 +28,3 @@ doc.css(".post")
 
 
 end
-
